@@ -1,6 +1,7 @@
 {
   "name": "@pragmatic-lab/todl-runtime",
   "version": "0.1.0",
+  "license": "Apache-2.0",
   "description": "Runtime base for TODL-generated entities: a minimal name/setter INotifyPropertyChanged (Observable).",
   "type": "module",
   "main": "dist/index.js",
