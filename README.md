@@ -1,4 +1,4 @@
-# @pragmatic-lab/todl-runtime
+# @pragmatic-tech-ai/todl-runtime
 
 The runtime base for TODL-generated entity classes.
 
@@ -9,5 +9,5 @@ so a generated entity and mural's own visuals share **one** `Observable` class
 identity — which is what lets mural's data binding and `DataTemplate` dispatch
 treat a realized TODL node as a first-class bindable source.
 
-Zero dependencies by design: neither mural nor the `@pragmatic-lab/todl`
+Zero dependencies by design: neither mural nor the `@pragmatic-tech-ai/todl`
 compiler is pulled in.
